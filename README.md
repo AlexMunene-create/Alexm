@@ -71,5 +71,5 @@ I can debug a Django ORM query, optimize React renders, and articulate Kotlin's 
 [![](https://visitcount.itsvg.in/api?id=AlexMunene-create&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 ✨ **Highlight Projects**  
-- [E-Commerce Platform](https://github.com/Market-Nest) - Fullstack Kotlin
+- [E-Commerce Platform](https://github.com/AlexMunene-create/Market-Nest) -  Kotlin
   
