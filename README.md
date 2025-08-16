@@ -51,6 +51,7 @@ I can debug a Django ORM query, optimize React renders, and articulate Kotlin's 
 
 ### Mobile
 ![React Native](https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### Databases
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -65,13 +66,11 @@ I can debug a Django ORM query, optimize React renders, and articulate Kotlin's 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AlexMunene-create&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMunene-create&theme=dark&hide_border=true&layout=compact&langs_count=6)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AlexMunene-create&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AlexMunene-create&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 ✨ **Highlight Projects**  
-- [E-Commerce Platform](https://github.com/...) - Fullstack Kotlin/React  
-- [Firebase Social App](https://github.com/...) - Realtime features  
-- [Django CMS](https://github.com/...) - Custom content management  
+- [E-Commerce Platform](https://github.com/Market-Nest) - Fullstack Kotlin
+  
