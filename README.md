@@ -1,5 +1,5 @@
-# Alexm
-# 💫 About Me:
+# AlexMunene-create
+Hey there,I'm Alex Munene Mwai !
 🔭 **Currently Working On**  
 Building scalable full-stack applications with modern stacks:
 - Frontend: React (TypeScript), Next.js, TailwindCSS  
